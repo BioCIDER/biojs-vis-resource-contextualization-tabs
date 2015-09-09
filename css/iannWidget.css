@@ -1,0 +1,113 @@
+
+div.iAnnEventTitleEven{
+
+  word-wrap: break-word;
+  width: 100%;
+}
+
+.iAnnEventBlockOdd{
+
+ width: 100%;
+ padding-bottom: 1px;
+}
+
+.iannEventList{
+  width: 100%;
+  background: #F4F7F8;
+  padding: 10px 5px;
+  margin: 1px auto;
+  border-radius: 12px;
+  font-family: 'Times New Roman', sans-serif;
+}
+
+h1.pane-title{
+
+  color: #black;
+  font-family: Open Sans, sans-serif;
+  width: 100%;
+  text-align: center;
+}
+
+
+.iAnnEventTitleOdd {
+  padding: 10px 0px 0px;
+  width: 100%;
+  text-align: center;
+}
+
+.iAnnEventTitleEven{
+  padding: 10px 0px 0px;
+  width: 100%;
+  text-align: center;
+}
+
+.iAnnEventTitleOdd a, .iAnnEventTitleEven a{
+
+  text-decoration: none;
+  font-size: 1.2em;
+  color: black;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+
+}
+
+ul.blockInformation{
+
+  padding: 1px;
+  width: 100%;
+  padding-left: 9px;
+  text-align: center;
+}
+
+div.iannEventList li {
+
+  display: block;
+  color: #666;
+  list-style: none;
+  font-size: 15px;
+  line-height: 20px;
+  padding-right: 15px;
+  padding-top: 1%;
+  text-transform: initial;
+}
+
+i.fa.fa-map-marker{
+
+  padding-left: 5px;
+}
+
+ul.blockInformation i {
+
+  font-size: 15px;
+  padding: 5;
+}
+
+ul.blockInformation span {
+
+  font-size: 1.1em;
+  padding-right: 20px;
+  padding-left: 4px;
+}
+
+div.more-link{
+  position: relative;
+  display: block;
+  background: #1abc9c;
+  font-size: 18px;
+  text-align: center;
+  font-style: normal;
+  border: 1px solid #16a085;
+  border-width: 1px 1px 3px;
+
+}
+
+div.more-link a{
+
+  text-decoration: none;
+  color: #FFF;
+}
+
+.more-events-button a{
+  color:white;
+    font-family: Open Sans, sans-serif;
+}
